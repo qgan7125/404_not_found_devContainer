@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://qgan7125.github.io/404_not_found_devContainer">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/qgan7125/404_not_found_devContainer">
       Solution
     </a>
     <span> | </span>
@@ -36,11 +36,6 @@
 ## Overview
 
 ![screenshot](404_not_found_preview.png)
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ## Features
 
